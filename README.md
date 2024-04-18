@@ -47,7 +47,7 @@ Figma design link: https://www.figma.com/file/AJqg3a4WEZ2MHKzZZcl5FY/Free-Figma-
 |     Andrei Amelin      | navigation_1  | features_10 | contents_5  |
 |   Palina Bachkarova    | navigation_2  | features_9  | contents_6  |
 |     Yanita Biheza      | navigation_3  | features_8  | contents_17 |
-|    MBMaksim Bilukha    | navigation_4  | features_7  | contents_5  |
+|    Maksim Bilukha    | navigation_4  | features_7  | contents_5  |
 |   Viktar Davidzenka    | navigation_5  | features_6  | contents_6  |
 |      Jan Guardian      | navigation_6  | features_5  | contents_17 |
 |    Iryna Ishchanka     | navigation_7  | features_4  | contents_5  |
