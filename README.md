@@ -42,49 +42,31 @@ Figma design link: https://www.figma.com/file/AJqg3a4WEZ2MHKzZZcl5FY/Free-Figma-
 
 ## Student - section table
 
-|        Student        |  Navigation   |  Features  |  Contents  |
-| :-------------------: | :-----------: | :--------: | :--------: |
-|    Maksim Ahafonau    | navigation_1  | feature_1  | content_5  |
-|  Tatsiana Arkhipava   | navigation_2  | feature_2  | content_6  |
-|    Sofya Asinskaya    | navigation_3  | feature_3  | content_17 |
-|  Uladzislau Barsukou  | navigation_4  | feature_4  | content_5  |
-|    Dziyana Bortnik    | navigation_5  | feature_5  | content_6  |
-|     Palina Dolbik     | navigation_6  | feature_6  | content_17 |
-|    Maryia Filipava    | navigation_7  | feature_7  | content_5  |
-|     Olga Gourina      | navigation_8  | feature_8  | content_6  |
-|  Artsiom Harminovich  | navigation_9  | feature_9  | content_17 |
-|     Hanna Ivanova     | navigation_10 | feature_10 | content_5  |
-|  Aleksei Karpukovich  | navigation_11 | feature_13 | content_6  |
-|  Matsvei Kazhamiakin  | navigation_12 | feature_14 | content_17 |
-|   Hryhory Krasutski   | navigation_13 | feature_15 | content_5  |
-|    Matvei Krautsou    | navigation_14 | feature_16 | content_6  |
-|  Valeriya Laktionova  | navigation_15 | feature_17 | content_17 |
-|     Yahor Liashko     | navigation_16 | feature_18 | content_5  |
-|  Emilija Lisovskaja   | navigation_17 | feature_19 | content_6  |
-|   Kanstantsin Loseu   | navigation_18 | feature_21 | content_17 |
-|     Olga Lunevich     | navigation_19 | feature_22 | content_5  |
-|     Ulada Malets      | navigation_20 | feature_23 | content_6  |
-| Stanislau Miatselitsa | navigation_21 | feature_24 | content_17 |
-|  Aliaksandra Nerush   | navigation_1  | feature_25 | content_5  |
-|    Varvara Papova     | navigation_2  | feature_26 | content_6  |
-| Katsiaryna Pechankova | navigation_3  | feature_28 | content_17 |
-| Ialanta Pushchayenka  | navigation_4  | feature_29 | content_5  |
-|    Mikita Pylianok    | navigation_5  | feature_33 | content_6  |
-|     Mark Romanov      | navigation_6  | feature_35 | content_17 |
-|    Anton Rubchanka    | navigation_7  | feature_37 | content_5  |
-|     Pavel Serada      | navigation_8  | feature_39 | content_6  |
-|    Daria Shamraeva    | navigation_9  | feature_40 | content_17 |
-|   Aron Shapialevich   | navigation_10 | feature_42 | content_5  |
-|    Yauheni Shapryn    | navigation_11 | feature_45 | content_6  |
-|  Svetlana Sharkunova  | navigation_12 | feature_46 | content_17 |
-|     Mikita Shulha     | navigation_13 | feature_47 | content_5  |
-|   Nick Sinazhenski    | navigation_14 | feature_1  | content_6  |
-|     Daniil Smagin     | navigation_15 | feature_2  | content_5  |
-|  Natallia Sukharava   | navigation_16 | feature_3  | content_6  |
-|   Damir Suleimanau    | navigation_17 | feature_4  | content_17 |
-|   Timofei Tishenko    | navigation_18 | feature_5  | content_5  |
-| Polina Trybialustava  | navigation_19 | feature_6  | content_6  |
-|  Dzmitry Tsublianok   | navigation_20 | feature_7  | content_17 |
-|   Fiodar Viachorka    | navigation_21 | feature_8  | content_5  |
-|   Artsiom Yasiukou    | navigation_1  | feature_9  | content_6  |
-|   Andrei Yeudakimau   | navigation_2  | feature_10 | content_17 |
+|        Student         |  Navigation   |  Features   |  Contents   |
+| :--------------------: | :-----------: | :---------: | :---------: |
+|     Andrei Amelin      | navigation_1  | features_10 | contents_5  |
+|   Palina Bachkarova    | navigation_2  | features_9  | contents_6  |
+|     Yanita Biheza      | navigation_3  | features_8  | contents_17 |
+|    MBMaksim Bilukha    | navigation_4  | features_7  | contents_5  |
+|   Viktar Davidzenka    | navigation_5  | features_6  | contents_6  |
+|      Jan Guardian      | navigation_6  | features_5  | contents_17 |
+|    Iryna Ishchanka     | navigation_7  | features_4  | contents_5  |
+|    Yuliya Kanoplich    | navigation_8  | features_3  | contents_6  |
+| Aleksandr Korobeinikov | navigation_9  | features_2  | contents_17 |
+|     Tatiana Korol      | navigation_10 | features_13 | contents_5  |
+|   Darya Kryvitskaya    | navigation_11 | features_14 | contents_6  |
+|    Anna Kudriashova    | navigation_12 | features_15 | contents_17 |
+|     Ivan Kuliashov     | navigation_13 | features_16 | contents_5  |
+|      Anna Kulieva      | navigation_14 | features_17 | contents_6  |
+|     Anna Lazareva      | navigation_15 | features_18 | contents_17 |
+|   Tatsiana Mastykina   | navigation_16 | features_19 | contents_5  |
+|     Elena Nekrash      | navigation_17 | features_35 | contents_6  |
+|    Dzmitry Nekrash     | navigation_18 | features_33 | contents_17 |
+|  Evgeniia Peregudova   | navigation_19 | features_29 | contents_5  |
+|   Katsiaryna Piadus    | navigation_20 | features_28 | contents_6  |
+|   Vesta Sapozhnikava   | navigation_21 | features_26 | contents_17 |
+|    Ruslan Stomatin     | navigation_1  | features_25 | contents_5  |
+|   Yauheni Tsiarokhin   | navigation_2  | features_24 | contents_6  |
+|   Maksym Tverdokhlib   | navigation_3  | features_23 | contents_17 |
+|  Natalia Yamshchikova  | navigation_4  | features_22 | contents_5  |
+|  Aliaksandra Yurenia   | navigation_5  | features_21 | contents_6  |
