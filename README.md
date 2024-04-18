@@ -32,49 +32,31 @@ Figma design link: https://www.figma.com/file/AJqg3a4WEZ2MHKzZZcl5FY/Free-Figma-
 
 ## Student - section table
 
-|        Student        | Forms  |
-| :-------------------: | :----: |
-|    Maksim Ahafonau    | form_1 |
-|  Tatsiana Arkhipava   | form_2 |
-|    Sofya Asinskaya    | form_3 |
-|  Uladzislau Barsukou  | form_9 |
-|    Dziyana Bortnik    | form_5 |
-|     Palina Dolbik     | form_6 |
-|    Maryia Filipava    | form_8 |
-|     Olga Gourina      | form_1 |
-|  Artsiom Harminovich  | form_2 |
-|     Hanna Ivanova     | form_3 |
-|  Aleksei Karpukovich  | form_9 |
-|  Matsvei Kazhamiakin  | form_5 |
-|   Hryhory Krasutski   | form_6 |
-|    Matvei Krautsou    | form_8 |
-|  Valeriya Laktionova  | form_1 |
-|     Yahor Liashko     | form_2 |
-|  Emilija Lisovskaja   | form_3 |
-|   Kanstantsin Loseu   | form_9 |
-|     Olga Lunevich     | form_5 |
-|     Ulada Malets      | form_6 |
-| Stanislau Miatselitsa | form_8 |
-|  Aliaksandra Nerush   | form_1 |
-|    Varvara Papova     | form_2 |
-| Katsiaryna Pechankova | form_3 |
-| Ialanta Pushchayenka  | form_9 |
-|    Mikita Pylianok    | form_5 |
-|     Mark Romanov      | form_6 |
-|    Anton Rubchanka    | form_8 |
-|     Pavel Serada      | form_1 |
-|    Daria Shamraeva    | form_2 |
-|   Aron Shapialevich   | form_3 |
-|    Yauheni Shapryn    | form_9 |
-|  Svetlana Sharkunova  | form_5 |
-|     Mikita Shulha     | form_6 |
-|   Nick Sinazhenski    | form_8 |
-|     Daniil Smagin     | form_1 |
-|  Natallia Sukharava   | form_2 |
-|   Damir Suleimanau    | form_3 |
-|   Timofei Tishenko    | form_9 |
-| Polina Trybialustava  | form_5 |
-|  Dzmitry Tsublianok   | form_6 |
-|   Fiodar Viachorka    | form_8 |
-|   Artsiom Yasiukou    | form_1 |
-|   Andrei Yeudakimau   | form_2 |
+|        Student         | Forms  |
+| :--------------------: | :----: |
+|     Andrei Amelin      | form_1 |
+|   Palina Bachkarova    | form_2 |
+|     Yanita Biheza      | form_3 |
+|     Maksim Bilukha     | form_9 |
+|   Viktar Davidzenka    | form_5 |
+|      Jan Guardian      | form_6 |
+|    Iryna Ishchanka     | form_8 |
+|    Yuliya Kanoplich    | form_1 |
+| Aleksandr Korobeinikov | form_2 |
+|     Tatiana Korol      | form_3 |
+|   Darya Kryvitskaya    | form_9 |
+|    Anna Kudriashova    | form_5 |
+|     Ivan Kuliashov     | form_6 |
+|      Anna Kulieva      | form_8 |
+|     Anna Lazareva      | form_1 |
+|   Tatsiana Mastykina   | form_2 |
+|     Elena Nekrash      | form_3 |
+|    Dzmitry Nekrash     | form_9 |
+|  Evgeniia Peregudova   | form_5 |
+|   Katsiaryna Piadus    | form_6 |
+|   Vesta Sapozhnikava   | form_8 |
+|    Ruslan Stomatin     | form_1 |
+|   Yauheni Tsiarokhin   | form_2 |
+|   Maksym Tverdokhlib   | form_3 |
+|  Natalia Yamshchikova  | form_9 |
+|  Aliaksandra Yurenia   | form_5 |
