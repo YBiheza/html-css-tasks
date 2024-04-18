@@ -4,7 +4,7 @@
 
 ### Fork current repository into your account
 
-1. Navigate to https://autocode.git.epam.com/esde-js-ts/web-dev-js-ts-tasks-hr
+1. Navigate to https://autocode.git.epam.com/esde-js-ts/web-dev-js-ts-tasks-lr
 2. Click on `Fork` button in the top right corner
 3. Select `namespace` with a name or your personal gitlab account
 4. Set visibility level to `Public`
@@ -14,10 +14,10 @@
 
 1. Navigate to your forker repository and click on blue button `Clone`
 2. In dropdown find section **Clone with SSH** and copy that url git@autocode.git.epam.com:...git
-3. In console on your machine navigate to any folder you like and paste copied url after git clone: `git clone git@gitlab...web-dev-js-ts-tasks-hr.git`
+3. In console on your machine navigate to any folder you like and paste copied url after git clone: `git clone git@gitlab...web-dev-js-ts-tasks-lr.git`
 4. Type in yes if console asks you about fingerprint
-5. After cloning is done, in console type in `cd web-dev-js-ts-tasks-hr` and click Enter
-6. Now you should be in a folder `web-dev-js-ts-tasks-hr`
+5. After cloning is done, in console type in `cd web-dev-js-ts-tasks-lr` and click Enter
+6. Now you should be in a folder `web-dev-js-ts-tasks-lr`
 7. In console type in `git config user.name "Name Surname"` where Name is your Name (same as on Gitlab profile) and Surname is your Surname (same as on Gitlab profile). **Your name should be written in English**. **Don't remove " " symbols**
 8. In console type in `git config user.email youremailaddress@student.ehu.lt` where `youremailaddress@student.ehu.lt` is your address you used to register on Gitlab (the same as on Gitlab profile)
 9. In console type in `git config user.name` and click Enter. You should see your name
