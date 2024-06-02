@@ -4,12 +4,38 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Forms</title>
-
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
+
   </head>
+  
   <body>
-    <!-- Your solution here -->
-    <h1>Hello</h1>
+    <div class="container">
+        <img src="./logo.png" alt="logo" class="logo">
+        <div class="form-container">
+            <h1>Create an Account</h1>
+            <p>By signing up, you agree to the Terms of Service.</p>
+            <form>
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" placeholder="Your email" required>
+
+                <label for="password">Password</label>
+
+                <div class="passwords">
+                    <input type="password" id="password" name="password" placeholder="Password" class="password" required>
+                    <input type="password" id="repeat-password" name="repeat-password" placeholder="Repeat" class="password" required>
+                </div>
+
+                <div class="social-signup">
+                    <button type="submit">Sign Up</button>
+                    <p>or</p>
+                    <img src="./facebook.png" alt="Facebook" class="icon">
+                    <img src="./twitter.png" alt="Twitter" class="icon">
+                    <img src="./google.png" alt="Google" class="icon">
+                </div>
+            </form>
+        </div>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
