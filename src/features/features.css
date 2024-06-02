@@ -1,1 +1,41 @@
-/* your solution here */
+* {
+    font-family: DM Sans;
+    font-size: 24px;
+}
+
+
+h1 {
+    color: #1E0E62;
+    font-size: 2.17em;
+    text-align: center;
+    margin-top: 7%;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -2%;
+}
+
+li {
+    list-style-type: none;
+    font-size: 0.67em;
+    width: 30%;
+    color: rgba(21, 20, 57, 0.4);
+    padding-top: 5%;
+}
+
+p {
+    color: rgba(30, 14, 98, 1);
+    font-size: 1.07em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.10em;
+}
+
+
+

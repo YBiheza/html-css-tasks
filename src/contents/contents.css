@@ -1,1 +1,55 @@
-/* your solution here */
+* {
+    font-family: DM Sans;
+    font-size: 24px;
+    color: white;
+    margin: 0;
+}
+
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+main {
+    width: 100%;
+    height: 23.25em;
+    background: rgba(47, 24, 147, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-bottom: 1.5em;
+    font-size: 0.8em;
+}
+
+.first {
+    width: 19em;
+    margin-right: 5em;
+}
+
+.text {
+    font-size: 0.75em;
+    opacity: 0.7;
+}
+
+.block {
+    width: 12em;
+    height: 10em;
+    background-color: white;
+    border-radius: 0.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block_text {
+    width: 11em;
+    text-align: center;
+    color: #482BE7;
+    font-size: 0.8em;
+    font-weight: bold;
+}
