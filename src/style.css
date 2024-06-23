@@ -1,0 +1,23 @@
+@import './styles/header_gocorona.css';
+@import './styles/section1_gocorona.css';
+@import './styles/section2_gocorona.css';
+@import './styles/section3_gocorona.css';
+@import './styles/section4_gocorona.css';
+
+.wrapper {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 1 auto;
+}
+
+[class*="__container"] {
+    max-width: 1057px;
+    margin: 0px auto;
+    min-height: 114px;
+    align-items: center;
+}
+

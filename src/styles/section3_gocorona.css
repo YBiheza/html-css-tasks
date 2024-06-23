@@ -1,0 +1,124 @@
+.experts{
+    padding: 103px 0px 116px 0px;
+    
+}
+.experts__container {
+}
+.experts_statistics {
+}
+
+.experts__block-text {
+    max-width: 400px;
+}
+
+.statistics-experts {
+    max-width: 655px;
+    margin: 0px auto;
+    position: relative;
+    z-index: 2;
+}
+.statistics-experts__body {
+    box-shadow: 0px 2px 24px 0px rgba(88, 126, 236, 0.15);
+    background-color: white;
+    border-radius: 16px;
+    margin: 0px 0px 80px 0px;
+
+
+}
+
+
+.statistics-experts__decor {
+    position: absolute;
+    background-color:#EC5863;
+    border-radius: 30px;
+}
+.statistics-experts__decor_1 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    transform: rotate(-30deg);
+    bottom: -31px;
+    left: -31px;
+    z-index: -7;
+    border-radius: 15px;
+
+}
+.statistics-experts__decor_2 {
+    width: 97px;
+    height: 97px;
+    right: 50%;
+    top: -40px;
+    transform: rotate(30deg);
+    position: absolute;
+    z-index: -7;
+}
+
+.statistics-experts__decor_3 {
+    width: 128px;
+    height: 128px;
+    right: -50px;
+    bottom: -10px;
+    top: -15px;
+    right: -65px;
+    transform: rotate(-30deg);
+    position: absolute;
+    background-color:#EC5863;
+    z-index: -7;
+}
+
+
+
+.body-statistics-experts {
+    padding: 20px 80px;
+    display: flex;
+    align-items: center;
+}
+.body-statistics-experts__item {
+    flex: 1 1 25%;
+    text-align: center;
+}
+
+.body-statistics-experts__item:last-child {
+    flex: 1 1 50%;
+}
+
+.body-statistics-experts__value {
+    font-family: Rubik;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.66px;
+    letter-spacing: 0.14em;
+    color: #EC5863;
+
+}
+.body-statistics-experts__text {
+    font-family: Rubik;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 13.04px;
+    letter-spacing: 0.37em;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.experts__body {
+    display: flex;
+    align-items: center;
+}
+
+.experts__content {
+    flex: 0 1 50%;
+}
+.experts__video {
+    flex: 0 1 50%;
+    padding: 0px 0px 30% 0px;
+    position: relative;
+}
+
+.experts__video img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}    
