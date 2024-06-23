@@ -3,6 +3,8 @@
 @import './styles/section2_gocorona.css';
 @import './styles/section3_gocorona.css';
 @import './styles/section4_gocorona.css';
+@import './styles/footer_gocorona.css';
+
 
 .wrapper {
     overflow: hidden;
@@ -20,4 +22,3 @@ main {
     min-height: 114px;
     align-items: center;
 }
-
