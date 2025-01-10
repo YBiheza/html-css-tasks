@@ -6,7 +6,7 @@ Figma design link: https://www.figma.com/design/8OmsbdXHlnVZGknLy2i6Mv/Gocorna-W
 
 ## Evaluation criteria - maximum 10 points
 
-|                                 Task                                  | Points |
+|                                                                       | Points |
 | :-------------------------------------------------------------------: | :----: |
 |       Create index.html file with HTML code for the whole page        |   1    |
 |        Create style.css file with CSS code for the whole page         |  0.5   |
